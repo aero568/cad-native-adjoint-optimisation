@@ -149,7 +149,7 @@ The project is planned around **8–10 hours per week**, approximately **96–12
 ├── CMakeLists.txt
 ├── README.md
 ├── AGENTS.md                    # Codex development guidance, when added
-├── csrc/
+├── src/
 │   ├── include/
 │   ├── nurbs/                   # Basis, curve, geometry sensitivities
 │   └── ad/                      # Forward/reverse AD experiments
