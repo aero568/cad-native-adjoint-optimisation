@@ -1,2 +1,5 @@
 AGENTS.md
 CODEX_WEEK1_REVIEW_PROMPT.md
+/build/
+/.cache/
+.clang-format
